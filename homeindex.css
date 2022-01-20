@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Metal&family=Mochiy+Pop+P+One&family=Nanum+Myeongjo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Metal&family=Mochiy+Pop+P+One&family=Montagu+Slab:wght@100&family=Nanum+Myeongjo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Metal&family=Mochiy+Pop+P+One&family=Montagu+Slab:wght@100&family=Nanum+Myeongjo&family=Patrick+Hand&display=swap');
+.homeab a{
+text-decoration: none;
+color: rgb(0, 46, 199);
+}
+.homeab{
+    font-family: 'Nanum Myeongjo', serif;
+    background-color: rgba(251, 255, 0, 0.541);
+    text-align: right;
+    font-size: 30px;
+    height: 100px;
+    padding-right: 10px;
+    padding: 20px;
+}
+.getinfo a{
+    text-decoration: none;
+    color: rgb(28, 184, 150);
+}
+.getinfo{
+    font-size: 50px;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    background-color: rgba(251, 255, 0, 0.541);
+    height: 100px;
+    margin: auto;
+    padding: 0;
+}
+.topic a{
+    text-decoration: none;
+    color: rgb(115, 0, 138);
+}
+.topic{
+    background-color: rgb(199, 227, 252);
+    font-family: 'Metal', cursive;
+    font-size: 30px;
+    height: auto;
+    width: auto;
+    margin: 0;
+    padding: 0;
+}
+.contacting{
+    margin: 0;
+    background-color: rgb(232, 255, 129);
+    color: rgb(56, 126, 9);
+    font-size: 30px;
+    font-family: 'Patrick Hand', cursive;
+    padding: 20px;
+}
+.copygetkeshav a{
+    color: rgb(148, 73, 3);
+    text-decoration: none;
+}
+/* font-family: 'Montagu Slab', serif; */
+/* font-family: 'Lobster', cursive; */
+/* font-family: 'Mochiy Pop P One', sans-serif; */
+/* font-family: 'Nanum Myeongjo', serif; */
